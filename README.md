@@ -21,7 +21,7 @@ I design infrastructure that makes AI agents reliable — persistent memory, str
  VERIFY     →  Automated validation against pre-defined truths & artifacts
 ```
 
-The GSD cycle — TDD applied at the project level. The agent researches, plans, executes, and self-verifies against criteria defined **before** execution.
+TDD applied at the project level. The agent researches, plans, executes, and self-verifies against criteria defined **before** execution.
 
 ---
 
