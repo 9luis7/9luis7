@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="476" viewBox="0 0 900 476" role="img" aria-labelledby="title description">
+  <title id="title">Selected systems, live from GitHub</title>
+  <desc id="description">Language composition and latest public update for three selected repositories by Luis Fernando.</desc>
+  <style>
+    text { font-family: "Segoe UI", "Trebuchet MS", sans-serif; }
+    .kicker { fill: #8a5a20; font-size: 12px; font-weight: 700; letter-spacing: 2.4px; }
+    .title { fill: #17251b; font-size: 28px; font-weight: 650; letter-spacing: -0.4px; }
+    .caption { fill: #657368; font-size: 13px; }
+    .eyebrow { fill: #8a5a20; font-size: 10px; font-weight: 700; letter-spacing: 1.6px; }
+    .project { fill: #17251b; font-size: 18px; font-weight: 650; }
+    .summary { fill: #34483a; font-size: 13px; }
+    .updated { fill: #657368; font-size: 12px; }
+    .legend { fill: #34483a; font-size: 11px; }
+    .footer { fill: #657368; font-size: 10px; letter-spacing: 0.3px; }
+    .bar-segment { transform-box: fill-box; transform-origin: left; animation: reveal 650ms cubic-bezier(0.16, 1, 0.3, 1) both; }
+    @keyframes reveal { from { transform: scaleX(0); opacity: 0.65; } to { transform: scaleX(1); opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .bar-segment { animation: none; } }
+  </style>
+  <rect width="900" height="476" fill="#f5f1e8" />
+  <text x="48" y="38" class="kicker">PUBLIC CODE SIGNAL</text>
+  <text x="48" y="72" class="title">Selected systems, live from GitHub</text>
+  <text x="48" y="98" class="caption">Repository metadata and language bytes · selected public work only</text>
+  <g>
+        <text x="48" y="132" class="eyebrow">INDUSTRIAL INTELLIGENCE</text>
+        <text x="48" y="160" class="project">Forzy TwinOps</text>
+        <text x="360" y="160" class="summary">Digital twin · telemetry · explainable operations</text>
+        <text x="852" y="160" text-anchor="end" class="updated">updated Sep 2026</text>
+        <rect x="48" y="179" width="804" height="10" fill="#e5ded0" />
+        <rect class="bar-segment" style="animation-delay:0ms" x="48.00" y="179" width="643.17" height="10" fill="#3572a5" /><rect class="bar-segment" style="animation-delay:55ms" x="691.17" y="179" width="150.77" height="10" fill="#d4a900" /><rect class="bar-segment" style="animation-delay:110ms" x="841.95" y="179" width="6.93" height="10" fill="#663399" /><rect class="bar-segment" style="animation-delay:165ms" x="848.88" y="179" width="2.00" height="10" fill="#8b948d" /><rect class="bar-segment" style="animation-delay:220ms" x="850.88" y="179" width="2.00" height="10" fill="#8b948d" />
+        <circle cx="52" cy="208" r="4" fill="#3572a5" />
+            <text x="63" y="212" class="legend">Python 80%</text>
+<circle cx="210" cy="208" r="4" fill="#d4a900" />
+            <text x="221" y="212" class="legend">JavaScript 19%</text>
+<circle cx="368" cy="208" r="4" fill="#663399" />
+            <text x="379" y="212" class="legend">CSS 0.9%</text>
+<circle cx="526" cy="208" r="4" fill="#8b948d" />
+            <text x="537" y="212" class="legend">PowerShell 0.2%</text>
+<circle cx="684" cy="208" r="4" fill="#8b948d" />
+            <text x="695" y="212" class="legend">Other 0.2%</text>
+        <line x1="48" y1="227" x2="852" y2="227" stroke="#d9d2c3" />
+      </g>
+<g>
+        <text x="48" y="236" class="eyebrow">RISK ENGINEERING</text>
+        <text x="48" y="264" class="project">Predictive Cargo Monitoring</text>
+        <text x="360" y="264" class="summary">Geospatial risk · ensemble ML · live monitoring</text>
+        <text x="852" y="264" text-anchor="end" class="updated">updated Oct 2025</text>
+        <rect x="48" y="283" width="804" height="10" fill="#e5ded0" />
+        <rect class="bar-segment" style="animation-delay:90ms" x="48.00" y="283" width="257.49" height="10" fill="#d4a900" /><rect class="bar-segment" style="animation-delay:145ms" x="305.49" y="283" width="243.43" height="10" fill="#3178c6" /><rect class="bar-segment" style="animation-delay:200ms" x="548.93" y="283" width="90.92" height="10" fill="#663399" /><rect class="bar-segment" style="animation-delay:255ms" x="639.84" y="283" width="86.87" height="10" fill="#3572a5" /><rect class="bar-segment" style="animation-delay:310ms" x="726.71" y="283" width="125.29" height="10" fill="#8b948d" />
+        <circle cx="52" cy="312" r="4" fill="#d4a900" />
+            <text x="63" y="316" class="legend">JavaScript 32%</text>
+<circle cx="210" cy="312" r="4" fill="#3178c6" />
+            <text x="221" y="316" class="legend">TypeScript 30%</text>
+<circle cx="368" cy="312" r="4" fill="#663399" />
+            <text x="379" y="316" class="legend">CSS 11%</text>
+<circle cx="526" cy="312" r="4" fill="#3572a5" />
+            <text x="537" y="316" class="legend">Python 11%</text>
+<circle cx="684" cy="312" r="4" fill="#8b948d" />
+            <text x="695" y="316" class="legend">Other 16%</text>
+        <line x1="48" y1="331" x2="852" y2="331" stroke="#d9d2c3" />
+      </g>
+<g>
+        <text x="48" y="340" class="eyebrow">AUTOMATION &amp; DATA</text>
+        <text x="48" y="368" class="project">Cross-Tab Data Fusion</text>
+        <text x="360" y="368" class="summary">Web extraction · data fusion · LLM-ready outputs</text>
+        <text x="852" y="368" text-anchor="end" class="updated">updated Mar 2026</text>
+        <rect x="48" y="387" width="804" height="10" fill="#e5ded0" />
+        <rect class="bar-segment" style="animation-delay:180ms" x="48.00" y="387" width="420.63" height="10" fill="#e34c26" /><rect class="bar-segment" style="animation-delay:235ms" x="468.63" y="387" width="383.37" height="10" fill="#c85d13" />
+        <circle cx="52" cy="416" r="4" fill="#e34c26" />
+            <text x="63" y="420" class="legend">HTML 52%</text>
+<circle cx="210" cy="416" r="4" fill="#c85d13" />
+            <text x="221" y="420" class="legend">Jupyter Notebook 48%</text>
+        <line x1="48" y1="435" x2="852" y2="435" stroke="#d9d2c3" />
+      </g>
+  <text x="852" y="458" text-anchor="end" class="footer">GITHUB REST API · GENERATED 2026-09-06</text>
+</svg>
