@@ -1,6 +1,6 @@
 # Luis Fernando
 
-**AI Architect at [LCGBR](https://github.com/lcgbr)** · AI & Software Engineer
+**Tech Solutions Engineer at [LCGBR](https://github.com/lcgbr)** · AI & Software
 
 I design agentic systems, reliable automation, and data products that turn
 complex business context into observable, testable software.
